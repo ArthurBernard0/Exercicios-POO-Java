@@ -12,9 +12,6 @@ Os códigos aqui presentes demonstram desde fundamentos básicos até aplicaçõ
 3. [Detalhes dos Exercícios](#-detalhes-dos-exercícios)
 4. [Como Compilar e Executar](#-como-compilar-e-executar)
 5. [Boas Práticas Adotadas](#-boas-práticas-adotadas)
-6. [Contribuições](#-contribuições)
-7. [Licença](#-licença)
-
 ---
 
 ## 🧠 Sobre
@@ -35,6 +32,14 @@ Cada exercício representa um passo evolutivo na compreensão da linguagem e dos
 ## 🗂️ Estrutura do Repositório
 
 A estrutura do projeto é organizada por pastas, onde cada uma representa um conjunto de exercícios:
+
+├── Exercicio1/
+├── Exercicio2/
+├── Exercicio3,4 e 5/
+├── Exercicio 6,7,8 e 9/
+├── Exercicio 10/
+├── .idea/
+└── out/
 
 
 ### 📁 Descrição:
